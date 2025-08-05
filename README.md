@@ -19,7 +19,5 @@ https://github.com/user-attachments/assets/d8ec5d56-f59d-4d16-9990-659dadef8904
 # SLAM implementation using slam toolbox
 ![Mapping_using_slamtool_box](https://github.com/user-attachments/assets/fcb97273-3600-46ef-8050-5d3217d1bc52)
 
-![Mapping](https://github.com/user-attachments/assets/5ea04e3f-1142-4dd2-81b7-2d6b746535ed)
-
- # Navigation of robot using AMCL(Adaptive Monte Carlo Localisation)-basded Nav2 
+ # Navigation using AMCL(Adaptive Monte Carlo Localisation)-Nav2 
 
